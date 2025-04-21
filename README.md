@@ -15,8 +15,6 @@ Text('Hello', style: T.s16w700.white);
 - Shorthand TextStyle syntax (e.g. `T.s14w400.primary`)
 - Built-in extension methods for commonly used colors
 - Support for dynamic primary color
-- Light/Dark mode compatibility
-- Optional code generation from a JSON config file
 - Flexible and clean structure for typography management
 - Works out of the box – no setup required!
 
