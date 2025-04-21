@@ -73,8 +73,6 @@ TextStyleConfig.primaryColor = Colors.deepPurple;
 - Use `T.s14w400.primary` to maintain consistency across your app.
 - Use extensions like `.white`, `.black`, `.primary` to simplify styling.
 - Inject your theme's primary color once at the app level.
-- Add more color or weight options by editing the config and re-running the generator.
-
 ---
 
 ## 🧪 Example
