@@ -1,0 +1,14 @@
+name: text_style
+description: A minimal Flutter package for quickly applying TextStyle with shorthand.
+version: 0.0.1
+#repository:
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
