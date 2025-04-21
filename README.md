@@ -69,30 +69,6 @@ TextStyleConfig.primaryColor = Colors.deepPurple;
 
 ---
 
-## 🧰 JSON Config (optional)
-
-You can auto-generate styles from a config file:
-
-### 1. Create a config file `text_styles.json`:
-
-```json
-{
-  "styles": [
-    {"size": 14, "weight": 400},
-    {"size": 16, "weight": 700}
-  ]
-}
-```
-
-### 2. Run the generator:
-
-```bash
-dart tool/generate_styles.dart
-```
-
-This will generate `styles.dart` with all combinations.
-
----
 
 ## 💡 Best Practices
 
@@ -105,7 +81,7 @@ This will generate `styles.dart` with all combinations.
 
 ## 🧪 Example
 
-Check the [`example/`](example) folder for a full working demo.
+Check the [`example/text_style_example`](example) folder for a full working demo.
 
 ---
 
