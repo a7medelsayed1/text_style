@@ -81,7 +81,7 @@ TextStyleConfig.primaryColor = Colors.deepPurple;
 
 ## 🧪 Example
 
-Check the [`example/text_style_example`](example) folder for a full working demo.
+Check the [`example/text_style_example.dart`](example) folder for a full working demo.
 
 ---
 
