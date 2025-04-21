@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'config.dart';
 
 class T {
   static const double _defaultLetterSpacing = 0.0;
